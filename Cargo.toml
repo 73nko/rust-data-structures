@@ -1,5 +1,5 @@
 [package]
-name = "Stack"
+name = "rust-data-structures"
 version = "0.1.0"
 authors = ["73nko <apramos89@gmail.com>"]
 edition = "2018"
